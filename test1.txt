@@ -1,1 +1,1 @@
-I have started learning my github 
+Hello all this is an interesting journey , exploring the framework behind git and github 
